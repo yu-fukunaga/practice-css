@@ -2,9 +2,10 @@
 
 ### Done
 
+1. [Flexbox](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Flexbox)
+
 ### Todo
 
-1. [Flexbox](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Flexbox)
 1. [Floats](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Floats)
 1. [Grids](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Grids)
 1. [Floats](https://developer.mozilla.org/ja/docs/Learn/CSS/CSS_layout/Floats)

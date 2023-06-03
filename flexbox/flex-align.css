@@ -1,0 +1,28 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 70%;
+  max-width: 960px;
+  margin: 20px auto;
+}
+
+button {
+  font-size: 18px;
+  line-height: 1.5;
+  width: 15%;
+}
+
+div {
+  height: 100px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center; /* 垂直方向の中央揃え */
+  justify-content: space-around; /* 水平方向の中央揃え */
+}
+
+button:first-child {
+  align-self: flex-end; /* 垂直方向の下揃え */
+  order: 1; /* 並び順を後ろにする。既定では、すべてのフレックスアイテムの order の値は 0 です。*/
+}
